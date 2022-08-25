@@ -1,0 +1,2 @@
+# Hello there!
+I'm a self-taught engineer who is always working on a variety of projects, but most importantly on my ability to not go down every rabbit hole I come across. I also have a [Sourcehut profile under the same username](https://sr.ht/~crow-magnon/). Most of my personal projects are hosted on Sourcehut, although I am using Github to build [my personal website](https://alexandersauceda.dev) and contribute to open-source projects where I can.
