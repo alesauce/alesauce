@@ -1,2 +1,32 @@
-# Hello there!
-I'm a self-taught engineer who is always working on a variety of projects, but most importantly on my ability to not go down every rabbit hole I come across. I also have a [Sourcehut profile under the same username](https://sr.ht/~crow-magnon/). Most of my personal projects are hosted on Sourcehut, although I am using Github to build [my personal website](https://alexandersauceda.dev) and contribute to open-source projects where I can.
+## Howdy howdy!
+
+My name is Alexander, a self-taught engineer always looking to sharpen his skills. I am fascinated by the world of open source and looking for opportunities to contribute.
+
+### Recent Blog Posts
+
+Title: My 2022 Annual Review
+URL: https://alexandersauceda.dev/posts/annual-review/
+Published: 1 week ago
+
+
+### More of Me
+[My website](https://alexandersauceda.dev/)
+[Sourcehut](https://sr.ht/~crow-magnon/)
+
+### Currently Learning
+- Networking
+- Go
+- Kubernetes
+
+### Recent Contributions
+
+Name: crow-magnon/alexandersauceda.dev
+Description: A personal website using Hugo static site generator
+URL: https://github.com/crow-magnon/alexandersauceda.dev)
+Occurred: 5 months ago
+
+Name: crow-magnon/go-getting-started
+Description: 
+URL: https://github.com/crow-magnon/go-getting-started)
+Occurred: 10 months ago
+
