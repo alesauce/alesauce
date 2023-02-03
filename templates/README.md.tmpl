@@ -1,0 +1,23 @@
+## Howdy howdy!
+
+My name is Alexander, a self-taught engineer always looking to sharpen his skills. I am fascinated by the world of open source and looking for opportunities to contribute.
+
+### Recent Blog Posts
+{{range rss "https://alexandersauceda.dev/posts/index.xml" 5}}
+
+### More of Me
+[My website](https://alexandersauceda.dev/)
+[Sourcehut](https://sr.ht/~crow-magnon/)
+
+### Currently Learning
+- Networking
+- Go
+- Kubernetes
+
+### Recent Contributions
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
