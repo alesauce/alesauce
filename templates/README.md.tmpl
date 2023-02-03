@@ -4,6 +4,10 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 {{range rss "https://alexandersauceda.dev/posts/index.xml" 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+Published: {{humanize .PublishedAt}}
+{{end}}
 
 ### More of Me
 [My website](https://alexandersauceda.dev/)
