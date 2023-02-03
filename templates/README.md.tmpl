@@ -1,17 +1,11 @@
 ## Howdy howdy!
 
-My name is Alexander, a self-taught engineer always looking to sharpen his skills. I am fascinated by the world of open source and looking for opportunities to contribute.
+My name is Alexander, a self-taught engineer always looking to sharpen his skills. I am fascinated by the world of open source and looking for opportunities to contribute. You can also find me on [Sourcehut](https://sr.ht/~crow-magnon/)
 
 ### Recent Blog Posts
 {{range rss "https://alexandersauceda.dev/posts/index.xml" 5}}
-Title: {{.Title}}
-URL: {{.URL}}
-Published: {{humanize .PublishedAt}}
+ - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{end}}
-
-### More of Me
-[My website](https://alexandersauceda.dev/)
-[Sourcehut](https://sr.ht/~crow-magnon/)
 
 ### Currently Learning
 - Networking
@@ -20,8 +14,5 @@ Published: {{humanize .PublishedAt}}
 
 ### Recent Contributions
 {{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{end}}
