@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 
- - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (3 weeks ago)
+ - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (4 weeks ago)
 
 
 ### Currently Learning
