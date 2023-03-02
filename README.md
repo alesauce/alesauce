@@ -16,5 +16,5 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [crow-magnon/alexandersauceda.dev](https://github.com/crow-magnon/alexandersauceda.dev) - A personal website using Hugo static site generator (6 months ago)
 
-- [crow-magnon/go-getting-started](https://github.com/crow-magnon/go-getting-started) (10 months ago)
+- [crow-magnon/go-getting-started](https://github.com/crow-magnon/go-getting-started) (11 months ago)
 
