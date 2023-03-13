@@ -1,6 +1,6 @@
 ## Howdy howdy!
 
-My name is Alexander, a self-taught engineer always looking to sharpen his skills. I am fascinated by the world of open source and looking for opportunities to contribute. You can also find me on [Sourcehut](https://sr.ht/~crow-magnon/)
+My name is Alexander, a self-taught engineer always looking to sharpen his skills. I am fascinated by the world of open source and looking for opportunities to contribute. You can also find me on [Sourcehut](https://sr.ht/~crow-magnon/).
 
 ### Recent Blog Posts
 
@@ -8,13 +8,16 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 
 ### Currently Learning
-- Networking
-- Go
+- Rust
+- Nix
 - Kubernetes
+- Networking
 
 ### Recent Contributions
 
-- [crow-magnon/alexandersauceda.dev](https://github.com/crow-magnon/alexandersauceda.dev) - A personal website using Hugo static site generator (6 months ago)
+- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (4 days ago)
 
-- [crow-magnon/go-getting-started](https://github.com/crow-magnon/go-getting-started) (11 months ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (6 months ago)
+
+- [alesauce/go-getting-started](https://github.com/alesauce/go-getting-started) (11 months ago)
 
