@@ -15,7 +15,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (4 days ago)
+- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (5 days ago)
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (6 months ago)
 
