@@ -21,5 +21,5 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (2 weeks ago)
 
-- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (2 weeks ago)
+- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (3 weeks ago)
 
