@@ -17,8 +17,6 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/python-craigslist-scraper](https://github.com/alesauce/python-craigslist-scraper) - Practicing with bs4 and MySQL libraries (1 week ago)
-
 - [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (1 week ago)
 
 - [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (3 weeks ago)
