@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (1 week ago)
+- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (2 weeks ago)
 
 - [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (1 month ago)
 
