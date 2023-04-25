@@ -4,11 +4,11 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/provision-new-stock-linux-server](https://github.com/alesauce/provision-new-stock-linux-server) - Ansible playbook to create a new user specified by the playbook user, add them to sudo group, transfer an authorized key, and delete the default ubuntu user.  (6 days ago)
+- [alesauce/provision-new-stock-linux-server](https://github.com/alesauce/provision-new-stock-linux-server) - Ansible playbook to create a new user specified by the playbook user, add them to sudo group, transfer an authorized key, and delete the default ubuntu user.  (1 week ago)
 
-- [alesauce/debian-ansible-testing-frankenstein](https://github.com/alesauce/debian-ansible-testing-frankenstein) - A cobbled together Docker image to test Ansible playbooks via Molecule (6 days ago)
+- [alesauce/debian-ansible-testing-frankenstein](https://github.com/alesauce/debian-ansible-testing-frankenstein) - A cobbled together Docker image to test Ansible playbooks via Molecule (1 week ago)
 
-- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (2 weeks ago)
+- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (3 weeks ago)
 
 - [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (1 month ago)
 
