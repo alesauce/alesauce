@@ -4,9 +4,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (1 week ago)
+- [alesauce/nix-dotfiles](https://github.com/alesauce/nix-dotfiles) - Migrating to Nix home manager for dotfile management (2 weeks ago)
 
-- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (3 weeks ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (4 weeks ago)
 
 - [alesauce/provision-new-stock-linux-server](https://github.com/alesauce/provision-new-stock-linux-server) - Ansible playbook to create a new user specified by the playbook user, add them to sudo group, transfer an authorized key, and delete the default ubuntu user.  (1 month ago)
 
@@ -19,7 +19,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (2 months ago)
 
- - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (3 months ago)
+ - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (4 months ago)
 
 
 ### Currently Learning
