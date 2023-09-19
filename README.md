@@ -4,9 +4,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (3 days ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (4 days ago)
 
-- [alesauce/dnd-cli](https://github.com/alesauce/dnd-cli) - A CLI tool for querying for DnD 5E information. (and soon much, much, more) (3 days ago)
+- [alesauce/dnd-cli](https://github.com/alesauce/dnd-cli) - A CLI tool for querying for DnD 5E information. (and soon much, much, more) (4 days ago)
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (4 months ago)
 
@@ -23,7 +23,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (6 months ago)
 
- - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (7 months ago)
+ - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (8 months ago)
 
 
 ### Currently Learning
