@@ -4,11 +4,11 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (5 days ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (6 days ago)
 
-- [alesauce/dnd-cli](https://github.com/alesauce/dnd-cli) - A CLI tool for querying for DnD 5E information. (and soon much, much, more) (5 days ago)
+- [alesauce/dnd-cli](https://github.com/alesauce/dnd-cli) - A CLI tool for querying for DnD 5E information. (and soon much, much, more) (6 days ago)
 
-- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (4 months ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (5 months ago)
 
 - [alesauce/provision-new-stock-linux-server](https://github.com/alesauce/provision-new-stock-linux-server) - Ansible playbook to create a new user specified by the playbook user, add them to sudo group, transfer an authorized key, and delete the default ubuntu user.  (5 months ago)
 
