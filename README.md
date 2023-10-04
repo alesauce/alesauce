@@ -8,8 +8,6 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (2 weeks ago)
 
-- [alesauce/dnd-cli](https://github.com/alesauce/dnd-cli) - A CLI tool for querying for DnD 5E information. (and soon much, much, more) (2 weeks ago)
-
 - [alesauce/provision-new-stock-linux-server](https://github.com/alesauce/provision-new-stock-linux-server) - Ansible playbook to create a new user specified by the playbook user, add them to sudo group, transfer an authorized key, and delete the default ubuntu user.  (5 months ago)
 
 - [alesauce/debian-ansible-testing-frankenstein](https://github.com/alesauce/debian-ansible-testing-frankenstein) - A cobbled together Docker image to test Ansible playbooks via Molecule (5 months ago)
