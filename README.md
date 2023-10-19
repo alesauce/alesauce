@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (2 days ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (3 days ago)
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (3 weeks ago)
 
@@ -21,7 +21,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (7 months ago)
 
- - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (8 months ago)
+ - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (9 months ago)
 
 
 ### Currently Learning
