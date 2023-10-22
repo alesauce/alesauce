@@ -4,9 +4,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (1 day ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (2 days ago)
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (5 days ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (6 days ago)
 
 - [alesauce/provision-new-stock-linux-server](https://github.com/alesauce/provision-new-stock-linux-server) - Ansible playbook to create a new user specified by the playbook user, add them to sudo group, transfer an authorized key, and delete the default ubuntu user.  (6 months ago)
 
@@ -17,9 +17,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 
- - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (today)
+ - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (1 day ago)
 
- - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (5 months ago)
+ - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (6 months ago)
 
  - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (7 months ago)
 
