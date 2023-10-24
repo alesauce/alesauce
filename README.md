@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (3 days ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (1 day ago)
 
 - [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (1 week ago)
 
@@ -17,7 +17,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 
- - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (2 days ago)
+ - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (3 days ago)
 
  - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (6 months ago)
 
