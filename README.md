@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (6 days ago)
+- [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (1 week ago)
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (1 week ago)
 
@@ -19,7 +19,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 
- - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (1 week ago)
+ - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (2 weeks ago)
 
  - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (6 months ago)
 
