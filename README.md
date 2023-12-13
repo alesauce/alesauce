@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (1 day ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (2 days ago)
 
 - [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (3 weeks ago)
 
@@ -16,7 +16,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/debian-ansible-testing-frankenstein](https://github.com/alesauce/debian-ansible-testing-frankenstein) - A cobbled together Docker image to test Ansible playbooks via Molecule (7 months ago)
 
-- [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (8 months ago)
+- [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (9 months ago)
 
 
 ### Recent Blog Posts
