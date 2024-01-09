@@ -25,7 +25,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (8 months ago)
 
- - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (9 months ago)
+ - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (10 months ago)
 
  - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (11 months ago)
 
