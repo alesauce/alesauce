@@ -6,7 +6,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (3 weeks ago)
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (3 weeks ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (4 weeks ago)
 
 - [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (2 months ago)
 
@@ -16,7 +16,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/debian-ansible-testing-frankenstein](https://github.com/alesauce/debian-ansible-testing-frankenstein) - A cobbled together Docker image to test Ansible playbooks via Molecule (8 months ago)
 
-- [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (9 months ago)
+- [alesauce/ansible_role_install_haproxy](https://github.com/alesauce/ansible_role_install_haproxy) - Ansible Galaxy role to install HAProxy load balancer (10 months ago)
 
 
 ### Recent Blog Posts
