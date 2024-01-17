@@ -27,7 +27,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (10 months ago)
 
- - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (11 months ago)
+ - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (1 year ago)
 
 
 ### Currently Learning
