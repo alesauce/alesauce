@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (5 days ago)
+- [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (6 days ago)
 
 - [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (1 week ago)
 
@@ -23,7 +23,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 
- - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (3 months ago)
+ - [Creating a New DnD Character Sheet Application](https://alexandersauceda.dev/posts/dnd-character-sheet-app-design-doc-v1/) (4 months ago)
 
  - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (9 months ago)
 
