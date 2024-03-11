@@ -8,7 +8,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (1 week ago)
 
-- [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (3 weeks ago)
+- [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (4 weeks ago)
 
 - [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (4 months ago)
 
