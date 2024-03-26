@@ -10,7 +10,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (1 month ago)
 
-- [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (4 months ago)
+- [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (5 months ago)
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (5 months ago)
 
