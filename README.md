@@ -4,9 +4,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (3 weeks ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (4 weeks ago)
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (3 weeks ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (4 weeks ago)
 
 - [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (1 month ago)
 
