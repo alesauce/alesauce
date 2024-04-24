@@ -12,7 +12,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/5e-character-sheet](https://github.com/alesauce/5e-character-sheet) - A character sheet application for DnD 5E (5 months ago)
 
-- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (5 months ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (6 months ago)
 
 
 ### Recent Blog Posts
