@@ -6,6 +6,8 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (1 day ago)
 
+- [alesauce/potatomath](https://github.com/alesauce/potatomath) - A potatomath calculator (1 day ago)
+
 - [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (4 days ago)
 
 - [alesauce/dev-flake-templates](https://github.com/alesauce/dev-flake-templates) - A set of Nix flake templates for dev environments (3 months ago)
