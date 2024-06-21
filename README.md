@@ -4,9 +4,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (1 day ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (2 days ago)
 
-- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (6 days ago)
+- [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (1 week ago)
 
 - [alesauce/potatomath](https://github.com/alesauce/potatomath) - A potatomath calculator (3 weeks ago)
 
@@ -17,7 +17,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Blog Posts
 
- - [Potatomath P0](https://alexandersauceda.dev/posts/potatomath-p0/) (6 days ago)
+ - [Potatomath P0](https://alexandersauceda.dev/posts/potatomath-p0/) (1 week ago)
 
  - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (1 year ago)
 
