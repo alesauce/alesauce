@@ -25,9 +25,3 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [My 2022 Annual Review](https://alexandersauceda.dev/posts/annual-review/) (1 year ago)
 
-
-### Currently Learning
-- Nix
-- Kubernetes
-- Networking
-- Go
