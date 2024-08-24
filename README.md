@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (2 days ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (1 day ago)
 
 - [alesauce/haskell-bookcamp](https://github.com/alesauce/haskell-bookcamp) - Alesauce&#39;s code for working through Haskell Bookcamp (1 week ago)
 
