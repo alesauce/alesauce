@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/resume](https://github.com/alesauce/resume) - Alesauce&#39;s resume managed via rendercv (1 day ago)
+- [alesauce/resume](https://github.com/alesauce/resume) - Alesauce&#39;s resume managed via rendercv (today)
 
 - [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (2 days ago)
 
