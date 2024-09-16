@@ -8,9 +8,9 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (2 weeks ago)
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (2 weeks ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (3 weeks ago)
 
-- [alesauce/haskell-bookcamp](https://github.com/alesauce/haskell-bookcamp) - Alesauce&#39;s code for working through Haskell Bookcamp (2 weeks ago)
+- [alesauce/haskell-bookcamp](https://github.com/alesauce/haskell-bookcamp) - Alesauce&#39;s code for working through Haskell Bookcamp (3 weeks ago)
 
 - [alesauce/alexandersauceda.dev](https://github.com/alesauce/alexandersauceda.dev) - A personal website using Hugo static site generator (3 months ago)
 
