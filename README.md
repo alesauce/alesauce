@@ -4,7 +4,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (3 days ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (4 days ago)
 
 - [alesauce/resume](https://github.com/alesauce/resume) - Alesauce&#39;s resume managed via rendercv using https://github.com/sinaatalay/rendercv (1 month ago)
 
@@ -19,7 +19,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
  - [Potatomath P0](https://alexandersauceda.dev/posts/potatomath-p0/) (4 months ago)
 
- - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (1 year ago)
+ - [An Idiot&#39;s Journey into Automation with Ansible](https://alexandersauceda.dev/posts/creating-ansible-homelab-roles/) (2 years ago)
 
  - [Keeping Perfect From Being the Enemy of Good Enough](https://alexandersauceda.dev/posts/perfect-as-enemy/) (2 years ago)
 
