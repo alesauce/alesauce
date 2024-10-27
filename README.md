@@ -8,7 +8,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/resume](https://github.com/alesauce/resume) - Alesauce&#39;s resume managed via rendercv using https://github.com/sinaatalay/rendercv (1 month ago)
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (1 month ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (2 months ago)
 
 - [alesauce/haskell-bookcamp](https://github.com/alesauce/haskell-bookcamp) - Alesauce&#39;s code for working through Haskell Bookcamp (2 months ago)
 
