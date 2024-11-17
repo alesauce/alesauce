@@ -6,7 +6,7 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 - [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (today)
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (4 days ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (today)
 
 - [alesauce/resume](https://github.com/alesauce/resume) - Alesauce&#39;s resume managed via rendercv using https://github.com/sinaatalay/rendercv (4 days ago)
 
