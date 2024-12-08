@@ -4,11 +4,11 @@ My name is Alexander, a self-taught engineer always looking to sharpen his skill
 
 ### Recent Contributions
 
-- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (3 days ago)
+- [alesauce/nixvim-flake](https://github.com/alesauce/nixvim-flake) - Nix flake holding all of my Neovim configuration (4 days ago)
 
 - [alesauce/resume](https://github.com/alesauce/resume) - Alesauce&#39;s resume managed via rendercv using https://github.com/sinaatalay/rendercv (2 weeks ago)
 
-- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (2 weeks ago)
+- [alesauce/nix-home](https://github.com/alesauce/nix-home) - Alesauce&#39;s machine(s), configured via Nix (3 weeks ago)
 
 - [alesauce/haskell-bookcamp](https://github.com/alesauce/haskell-bookcamp) - Alesauce&#39;s code for working through Haskell Bookcamp (3 months ago)
 
